@@ -1,5 +1,5 @@
 // Invoke Netlify function via client-side JS
-let endpoint = `https://serverless-golang-tutorial.netlify.app/.netlify/functions/helloworld`
+let endpoint = `https://serverless-golang-tutorial.netlify.app/.netlify/functions/helloworld?name=todd`
 
 // HTTP Client to create requests.
 let HttpClient = function () {
