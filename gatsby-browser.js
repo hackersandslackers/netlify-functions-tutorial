@@ -1,4 +1,4 @@
-let endpoint = "http://example.com"
+let endpoint = "https://serverless-golang-tutorial.netlify.app/.netlify/functions/helloworld"
 
 
 // HTTP Client to create requests.
