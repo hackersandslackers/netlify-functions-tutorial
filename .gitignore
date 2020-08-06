@@ -67,3 +67,25 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# IDE
+.idea/*
+*.iml
+*.sublime-*
+
+# OSX
+.DS_Store
+.vscode
+
+# Docs Custom
+.cache/
+public
+yarn-error.log
+
+# Netlify
+.netlify
+functions/*
+
+#jetbrains
+.idea
+
