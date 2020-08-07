@@ -388,6 +388,11 @@ strong {
   }
 }
 
+footer {
+  font-size: .8em;
+  opacity: .8;
+}
+
 #main * {
   font-size: 2em;
   font-weight: 700;
