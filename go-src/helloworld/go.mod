@@ -1,4 +1,4 @@
-module github.com/hackersandslackers/netlify-golang-function-tutorial
+module github.com/hackersandslackers/go-lambda-function-tutorial
 
 go 1.14
 
