@@ -21,7 +21,7 @@ export const onRouteUpdate = ({ location }) => {
   if (bodyElement) {
     let client = new HttpClient()
     client.get(endpoint, function (response) {
-      bodyElement.innerHTML = `<p>` + response + `</p>`
+      bodyElement.innerHTML = `<h2>` + response + `</h2>`
     })
   }
 }
