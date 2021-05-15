@@ -23,7 +23,7 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "stylelint": "^13.6.1",
-    "stylelint-config-standard": "^20.0.0"
+    "stylelint-config-standard": "22.0.0"
   },
   "devDependencies": {
     "prettier": "2.1.1",
