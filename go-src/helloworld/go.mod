@@ -1,6 +1,6 @@
 module github.com/hackersandslackers/go-lambda-function-tutorial
 
-go 1.14
+go 1.19
 
 require (
 	github.com/aws/aws-lambda-go v1.20.0
